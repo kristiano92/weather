@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristiano92/weather.git"
+  },
+  "author": "kristiano92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristiano92/weather/issues"
+  },
+  "homepage": "https://github.com/kristiano92/weather#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
